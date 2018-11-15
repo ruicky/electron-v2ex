@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Polaris-icon/Minor/Mono/Pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Polaris-icon/Minor/Mono/Pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17.7,7 L13,2.3 C12.8,2.1 12.599,2 12.3,2 C12,2 11.7,2.1 11.599,2.4 L8,6.7 C4.7,6.8 3.8,8.6 3.7,8.8 C3.5,9.2 3.5,9.6 3.9,9.9 L6.3,12.3 L2.3,16.3 C1.9,16.7 1.9,17.3 2.3,17.7 C2.5,17.9 2.7,18 3,18 C3.3,18 3.5,17.9 3.7,17.7 L7.7,13.7 L10.099,16.1 C10.3,16.3 10.5,16.4 10.8,16.4 C11,16.4 11.099,16.4 11.2,16.3 C11.4,16.2 13.099,15.2 13.3,12 L17.599,8.4 C17.9,8.3 18,8 18,7.7 C18,7.4 17.9,7.2 17.7,7" id="icon" fill="#31373D"></path>
+        <g id="Color/Default"></g>
+    </g>
+</svg>

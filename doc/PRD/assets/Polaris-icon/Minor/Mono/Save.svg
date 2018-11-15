@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Polaris-icon/Minor/Mono/Save</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Polaris-icon/Minor/Mono/Save" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,4 L14,4 C13.447,4 13,4.448 13,5 C13,5.552 13.447,6 14,6 L16,6 L16,16 L4,16 L4,4 L7.586,4 L9,5.414 L9,10.586 L7.707,9.293 C7.316,8.902 6.684,8.902 6.293,9.293 C5.902,9.684 5.902,10.316 6.293,10.707 L9.293,13.707 C9.488,13.902 9.744,14 10,14 C10.256,14 10.512,13.902 10.707,13.707 L13.707,10.707 C14.098,10.316 14.098,9.684 13.707,9.293 C13.316,8.902 12.684,8.902 12.293,9.293 L11,10.586 L11,5 C11,4.735 10.895,4.48 10.707,4.293 L8.707,2.293 C8.52,2.105 8.266,2 8,2 L3,2 C2.447,2 2,2.448 2,3 L2,17 C2,17.552 2.447,18 3,18 L17,18 C17.553,18 18,17.552 18,17 L18,5 C18,4.448 17.553,4 17,4" id="Icon" fill="#31373D"></path>
+        <g id="Color/Default" transform="translate(0.000000, -1.000000)"></g>
+    </g>
+</svg>

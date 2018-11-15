@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Polaris-icon/Minor/Mono/Chevron Down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Polaris-icon/Minor/Mono/Chevron-Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,14 C9.744,14 9.488,13.902 9.293,13.707 L4.293,8.707 C3.902,8.316 3.902,7.684 4.293,7.293 C4.684,6.902 5.316,6.902 5.707,7.293 L10,11.586 L14.293,7.293 C14.684,6.902 15.316,6.902 15.707,7.293 C16.098,7.684 16.098,8.316 15.707,8.707 L10.707,13.707 C10.512,13.902 10.256,14 10,14" id="Icon" fill="#31373D"></path>
+        <g id="Color/Default"></g>
+    </g>
+</svg>
