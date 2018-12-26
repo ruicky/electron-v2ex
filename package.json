@@ -1,9 +1,9 @@
 {
   "name": "electron-v2er",
   "version": "0.0.1",
-  "author": "王瑞瑞 <ruirui.wang@fengjr.com>",
+  "author": "王瑞瑞 <wr_mvp@163.com>",
   "description": "An electron-vue project",
-  "license": "0.0.1",
+  "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder --publish onTagOrDraft",
