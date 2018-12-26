@@ -2,6 +2,7 @@
   "name": "electron-v2er",
   "version": "0.0.1",
   "author": "王瑞瑞 <wr_mvp@163.com>",
+  "homepage":"https://github.com/ruicky/electron-v2ex",
   "description": "An electron-vue project",
   "license": "MIT",
   "main": "./dist/electron/main.js",
